@@ -1,10 +1,10 @@
 # channel
 
-Código das aulas do canal no YouTube.
+Code for the lessons on the YouTube channel.
 
 ## vectorized_computation
 
-Demonstrações deste curso:
+Demonstrations in this course, in order:
 
-- `what_is_vectorized_computation`
-- `what_is_an_array`
+- `01_what_is_vectorized_computation`
+- `02_what_is_an_array`
